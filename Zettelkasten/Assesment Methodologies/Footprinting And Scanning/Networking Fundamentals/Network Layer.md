@@ -2,7 +2,7 @@
 Status: #idea
 Tags: [[OSI Model]], [[Networking Fundamentals]]
 
-# Network Layer1123123
+# Network Layer
 
 Esta capa es la encargada de hacer el direccionamiento lógico, routing, y envío de paquetes entre los diferentes dispositivos de la red.
 
